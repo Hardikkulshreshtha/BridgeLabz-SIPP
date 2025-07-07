@@ -2,7 +2,7 @@ public class vowels {
     public static void main(String[] args) {
         String input = "hello world";
         String result = removeVowels(input);
-        System.out.println(result); 
+        System.out.println(result);
     }
 
     public static String removeVowels(String str) {
